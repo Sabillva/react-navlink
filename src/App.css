@@ -1,0 +1,13 @@
+.about {
+  width: 80%;
+  margin: 25px auto;
+  /* display: flex; */
+}
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.active {
+  color: orangered;
+}
