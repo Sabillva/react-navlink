@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-navlink/static/css/main.d495b96b.css",
+    "main.js": "/react-navlink/static/js/main.35a819a7.js",
+    "index.html": "/react-navlink/index.html",
+    "main.d495b96b.css.map": "/react-navlink/static/css/main.d495b96b.css.map",
+    "main.35a819a7.js.map": "/react-navlink/static/js/main.35a819a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d495b96b.css",
+    "static/js/main.35a819a7.js"
+  ]
+}
