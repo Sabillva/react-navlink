@@ -3,13 +3,6 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <h3>İş Yeri Haqqında Məlumat</h3>
-
-      <p>Şirkət Adı: Gözəl İnşaat MMC</p>
-      <p>Ünvan: Bakı şəhəri, Nərimanov rayonu, Əhməd Rəcəbli küçəsi 45 </p>
-      <p>Əlaqə: (+994 12) 123 45 67 | info@gozelinsaat.az </p>
-      <p>İş Saatları: Bazar ertəsi - Cümə, 09:00 - 18:00 </p>
-
       <h3>Haqqımızda:</h3>
       <p>
         Gözəl İnşaat MMC 2005-ci ildən bəri tikinti və təmir sahəsində fəaliyyət
